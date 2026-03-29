@@ -88,3 +88,51 @@ En contextos de alta incertidumbre, priorizar sectores con menor kurtosis puede 
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+📊 **No todo rendimiento alto es “bueno”… depende del riesgo oculto**
+
+Algunos sectores destacan por sus retornos…
+pero esconden un detalle clave: **riesgo de eventos extremos**.
+
+👉 Analicé el rendimiento sectorial de los últimos 7 días, ajustándolo por **kurtosis** para identificar dónde el retorno es más “saludable”.
+
+💡 **Insight clave:**
+Hay sectores que logran **buen rendimiento promedio con menor riesgo de cola**, lo que los convierte en candidatos más robustos frente a shocks inesperados.
+
+---
+
+📈 **¿Qué medí?**
+
+* Rendimiento promedio (7 días) por sector
+* Kurtosis promedio (riesgo de eventos extremos)
+* Comparación entre retorno y nivel de riesgo
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* Alta kurtosis → mayor probabilidad de movimientos extremos
+* Baja kurtosis → comportamiento más estable
+* Alto retorno + baja kurtosis → **mejor calidad de rendimiento**
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque no se trata solo de ganar…
+sino de **evitar pérdidas extremas en el camino**.
+
+Este enfoque permite:
+
+* Identificar sectores más “defensivos”
+* Construir portafolios más robustos
+* Filtrar oportunidades con mejor perfil riesgo-retorno
+
+---
+
+📌 Pregunta para la comunidad:
+¿Incorporan métricas de riesgo de cola en su análisis… o siguen priorizando volatilidad tradicional?
+
+#QuantFinance #DataScience #RiskManagement #Trading #StockMarket #Analytics #MachineLearning #SQL
+
